@@ -8,16 +8,16 @@
    - Step2. On Azure portal Seach bar Search Microsoft Entra ID.</br>
   <br>
    - Step3. on Overview pane under 'Manage' Click users</b>
-  <br>- step4. Click New User</br>
+  <br>
+   -step4. Click New User</br>
   <br>
    - Step5. Create new user</br>
   <br>
    - Step6. Provide the Basic user information</br>
-<ls>
-       - User principle name: user1</ls>
-       - mail nick Name: user1
-       - Display name: user1
-       - Account enabled: (By default it is selected)
+       <ls>-User principle name: user1
+           - mail nick Name: user1
+           - Display name: user1
+           - Account enabled: (By default it is selected)</ls>
    - Step7.  On the properties slide provide the user information (Provide as much as information)
    - Step8. On Assignments (Assign user Adminitritive unit, Group or Role, if you have information on hand)
    - Step9. Review and create
